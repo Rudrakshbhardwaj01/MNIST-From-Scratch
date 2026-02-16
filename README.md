@@ -1,4 +1,4 @@
-# MNSIT-From-Scratch
+# MNIST-From-Scratch
 
 This repository implements the MNIST digit classification task **from scratch** using Python. The goal is to help learners understand the basics of machine learning and neural networks by building a simple classifier without relying on high-level deep learning libraries like TensorFlow, PyTorch, or Keras. The core logic is implemented manually, with the help of NumPy for numerical operations.
 
